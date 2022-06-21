@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9hpe6BJBNiXYcLOIghOPWkKMa04iRk282vU+OKQlDPY=",
+  "Source": "KYCService",
+  "BasePath": "_content/KYCService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

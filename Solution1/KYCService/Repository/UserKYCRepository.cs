@@ -26,7 +26,7 @@ namespace KYCService.Repository
         {
             
                 var data = (from u in _db.Users join r in _db.UserKYC on u.UserId equals r.UserId
-                                      where r.KYCStatus!= "Approve"
+                                      where r.KYCStatus!= "Approved"
                             select new UserKYCModel(){ 
                                           UserId = u.UserId,
                                           Title = u.Title,

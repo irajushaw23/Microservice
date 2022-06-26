@@ -126,7 +126,7 @@ namespace WebUI.Controllers
             if (Convert.ToInt32(collection["UserKYCId"]) > 0)
             {
                 UserKYC uk = new UserKYC();
-                uk.KYCStatus = collection["KYCStatus"];
+                uk.KYCStatus = collection["KYCStatus"]== "Approve" ? "Approved" : "Rejected";
                 uk.UpdatedOn = DateTime.Today;
                 uk.UpdatedBy = "HR";
                 uk.CreatedOn = DateTime.Today;

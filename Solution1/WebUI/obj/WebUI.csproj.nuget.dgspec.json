@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Microservices\\Solution1\\WebUI\\WebUI.csproj": {}
+    "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Microservices\\Solution1\\WebUI\\WebUI.csproj": {
+    "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Microservices\\Solution1\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Projects\\Microservices\\Solution1\\WebUI\\WebUI.csproj",
+        "projectPath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\WebUI\\WebUI.csproj",
         "packagesPath": "C:\\Users\\PB265ZF\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Microservices\\Solution1\\WebUI\\obj\\",
+        "outputPath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PB265ZF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,6 +63,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.6, )"
+            },
+            "PagedList.Mvc": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.4.3, )"
             }
           },
           "imports": [
@@ -83,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

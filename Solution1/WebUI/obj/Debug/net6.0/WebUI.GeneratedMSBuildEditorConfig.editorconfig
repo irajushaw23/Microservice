@@ -8,85 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebUI
 build_property.RootNamespace = WebUI
-build_property.ProjectDir = C:\Projects\Microservices\Solution1\WebUI\
+build_property.ProjectDir = C:\Users\PB265ZF\Source\Repos\irajushaw23\Microservice\Solution1\WebUI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projects\Microservices\Solution1\WebUI
+build_property.MSBuildProjectDirectory = C:\Users\PB265ZF\Source\Repos\irajushaw23\Microservice\Solution1\WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Home/AboutUs.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Home/Contact.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Home/Index.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Home/Privacy.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Shared/Error.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/UserKYC/ApprovalEdit.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/UserKYC/ApprovalEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcktZQ1xBcHByb3ZhbEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/UserKYC/Edit.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/UserKYC/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcktZQ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/UserKYC/KYCApproval.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/UserKYC/KYCApproval.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcktZQ1xLWUNBcHByb3ZhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/UserKYC/KYCStatus.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/UserKYC/KYCStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcktZQ1xLWUNTdGF0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/UserKYC/PendingKYC.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/UserKYC/PendingKYC.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcktZQ1xQZW5kaW5nS1lDLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Users/Create.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Users/Delete.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Users/Details.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Users/Edit.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Users/Index.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/_ViewImports.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/_ViewStart.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Microservices/Solution1/WebUI/Views/Shared/_Layout.cshtml]
+[C:/Users/PB265ZF/Source/Repos/irajushaw23/Microservice/Solution1/WebUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mv07mvknwk

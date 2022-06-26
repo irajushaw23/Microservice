@@ -36,7 +36,7 @@ namespace UserService.Controllers
                 ModelState.AddModelError("", "Mobile No already Exist");
                 return StatusCode(500, ModelState);
             }
-
+            user.UpdatedOn = DateTime.Today;
             if (!_userRepo.CreateUser(user))
             {
                 ModelState.AddModelError("", $"Something went wrong while saving movie record of {user.MobileNo}");

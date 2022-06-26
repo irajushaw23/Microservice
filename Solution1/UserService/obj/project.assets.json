@@ -9666,11 +9666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Microservices\\Solution1\\UserService\\UserService.csproj",
+      "projectUniqueName": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\UserService\\UserService.csproj",
       "projectName": "UserService",
-      "projectPath": "C:\\Projects\\Microservices\\Solution1\\UserService\\UserService.csproj",
+      "projectPath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\UserService\\UserService.csproj",
       "packagesPath": "C:\\Users\\PB265ZF\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Microservices\\Solution1\\UserService\\obj\\",
+      "outputPath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\UserService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PB265ZF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9740,7 +9740,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

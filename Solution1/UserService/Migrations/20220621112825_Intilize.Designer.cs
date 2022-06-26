@@ -12,8 +12,8 @@ using UserService.Database;
 namespace UserService.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20220613132919_Intlize")]
-    partial class Intlize
+    [Migration("20220621112825_Intilize")]
+    partial class Intilize
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -19,8 +19,14 @@ namespace UserService.Repository
         }
         bool IUserRepository.CreateUser(User user)
         {
-            _db.Users.Add(user);
-            return Save();
+            try
+            {
+                _db.Users.Add(user);
+                return Save();
+            }
+            catch(Exception ex) { 
+            return false;
+            }
         }
 
         bool IUserRepository.DeleteUser(User user)

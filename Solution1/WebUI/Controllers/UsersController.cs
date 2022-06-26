@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using WebUI.Data;
 using WebUI.Models;
+using X.PagedList;
 
 namespace WebUI.Controllers
 {
@@ -30,12 +31,13 @@ namespace WebUI.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            List<User> users = new List<User>();
-            HttpResponseMessage responseMessage = await client.GetAsync(apiUrl+ "/User");
+            List<User>? users = new List<User>();
+            HttpResponseMessage responseMessage = await client.GetAsync(apiUrl + "/User");
             if (responseMessage.IsSuccessStatusCode)
             {
                 var responseData = responseMessage.Content.ReadAsStringAsync().Result;
                 users = JsonConvert.DeserializeObject<List<User>>(responseData);
+                return View(users);
             }
             return View(users);
         }
@@ -101,6 +103,8 @@ namespace WebUI.Controllers
                 {
                     user.Status = true;
                     user.UpdatedOn = DateTime.Today;
+                    user.CreatedOn = DateTime.Today;
+                    user.CreatedBy = "HR";
                     user.UpdatedBy = "HR";
                     string data = JsonConvert.SerializeObject(user);
                     StringContent content = new StringContent(data, Encoding.UTF8, "application/json");

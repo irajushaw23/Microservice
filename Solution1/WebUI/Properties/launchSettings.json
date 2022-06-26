@@ -10,6 +10,7 @@
   "profiles": {
     "WebUI": {
       "commandName": "Project",
+      "hotReloadProfile": "aspnetcore",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5267",

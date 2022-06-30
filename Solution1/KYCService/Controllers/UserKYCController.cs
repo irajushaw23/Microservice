@@ -20,7 +20,13 @@ namespace KYCService.Controllers
         {
             _userRepo = userRepo;
         }
-       
+        [HttpGet]
+        [Route("CheckHealth")]
+        public IActionResult Check()
+        {
+            return Ok("Running and Up!");
+        }
+
         [HttpGet]
         [Route("GetPendingApproval")]
         public IQueryable GetPendingApproval()

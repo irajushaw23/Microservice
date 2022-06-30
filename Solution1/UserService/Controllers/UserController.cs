@@ -13,12 +13,19 @@ namespace UserService.Controllers
         {
             _userRepo = userRepo;
         }
+       
+        [HttpGet]
+        [Route("CheckHealth")]
+        public IActionResult Check()
+        {
+            return Ok("Running and Up!");
+        }
         [HttpGet]
         public IQueryable Get()
         {
             return _userRepo.GetUsers();
         }
-
+       
         [HttpGet("{id}")]
         public User Get(int id)
         {

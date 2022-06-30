@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vefmCZqd3FpofbXRyADwdphFNxz8v2lf2d9bYrRcNj2DSs0KnOvG4OxlsKtMoTX/f897219CC+FpXKTVQD7Gdw==",
+  "dgSpecHash": "Y55iASH7OHc9x+Mp+yLiw3D2RDWMZCkyxWGfYsen3MXiiNXTGu2dsgUa3Q4svBN6w/NIQP7DIHKyCZSxyHLoNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\APIGetway\\APIGetway.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\mmlib.swaggerforocelot\\5.2.0\\mmlib.swaggerforocelot.5.2.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

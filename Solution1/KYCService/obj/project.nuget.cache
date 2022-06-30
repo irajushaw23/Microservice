@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U/u6T7T/uPtwLxXTZ4y6/Yf7kcpNHqTrb8it9+++EQXPb2G1uQSPItXd2ilAReknU2LAH2Es8hdoYeTVfXe+bw==",
+  "dgSpecHash": "epPh676H+xTl4Q4mKBJiEE+a8qi57c9vOr+MPxfnRczRYzWyM+xZbF1iHKuXn2ba5+TDP2t2Y6k8hIR433tbEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PB265ZF\\Source\\Repos\\irajushaw23\\Microservice\\Solution1\\KYCService\\KYCService.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.5\\microsoft.visualstudio.web.codegeneration.6.0.5.nupkg.sha512",
     "C:\\Users\\PB265ZF\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.5\\microsoft.visualstudio.web.codegeneration.core.6.0.5.nupkg.sha512",

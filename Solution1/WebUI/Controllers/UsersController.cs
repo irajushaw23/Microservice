@@ -29,6 +29,7 @@ namespace WebUI.Controllers
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
         }
+
         public async Task<IActionResult> Index()
         {
             List<User>? users = new List<User>();
